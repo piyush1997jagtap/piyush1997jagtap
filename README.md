@@ -11,9 +11,6 @@ I am a Full Stack Developer with 3 years of experience in the software industry.
 * 🧠  I'm learning React js
 * 🤝  I'm open to collaborating on Open Source Projects
 
-<a href="https://www.github.com/piyush1997jagtap" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/piyush1997jagtap?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 

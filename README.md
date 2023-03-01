@@ -8,8 +8,11 @@ I am a Full Stack Developer with 3 years of experience in the software industry.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [piyush1997jagtap@gmail.com](mailto:piyush1997jagtap@gmail.com)
-* 🧠  I'm learning React js
+* 🧠  I'm learning React js and Web3 techbologies
 * 🤝  I'm open to collaborating on Open Source Projects
+
+<a href="https://www.github.com/piyush1997jagtap" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/piyush1997jagtap?logo=github&style=for-the-badge&color=facc15&labelColor=134e4a" /></a>
 
 ### Skills
 
@@ -29,10 +32,10 @@ I am a Full Stack Developer with 3 years of experience in the software industry.
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
 </p>
 
 
@@ -44,14 +47,14 @@ I am a Full Stack Developer with 3 years of experience in the software industry.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/piyush1997jagtap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1997jagtap&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/piyush1997jagtap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1997jagtap&stroke=ffffff&background=134e4a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/piyush1997jagtap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1997jagtap&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/piyush1997jagtap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1997jagtap&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/piyush1997jagtap/Ecommerce-Store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1997jagtap&repo=Ecommerce-Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/piyush1997jagtap/Javascript-Games" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1997jagtap&repo=Javascript-Games&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/piyush1997jagtap/Ecommerce-Store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1997jagtap&repo=Ecommerce-Store&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en" /></a><a href="https://github.com/piyush1997jagtap/Javascript-Games" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1997jagtap&repo=Javascript-Games&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/piyush1997jagtap/Audio-visualizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1997jagtap&repo=Audio-visualizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/piyush1997jagtap/Audio-visualizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1997jagtap&repo=Audio-visualizer&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en" /></a><a href="https://github.com/piyush1997jagtap/InstaVid" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1997jagtap&repo=InstaVid&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en" /></a></div>

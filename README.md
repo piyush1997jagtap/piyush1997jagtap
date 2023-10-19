@@ -6,10 +6,11 @@ Software Developer
 
 I am a Full Stack Developer with 3 years of experience in the software industry. My expertise include front-end technologies like Angular and functional testing using frameworks like selenium. And Back-end using ASP.NET CORE.
 
-* 🌍  I'm based in Mumbai
-* ✉️  You can contact me at [piyush1997jagtap@gmail.com](mailto:piyush1997jagtap@gmail.com)
+* 🌍  I'm based in California
+* ✉️  You can contact me at [piyush1997jagtap@gmail.com](mailto:piyush1997jagtap@gmail.com) or [piyush1997jagtap@csu.fullerton.edu](mailto:piyush1997jagtap@csu.fullerton.edu)
 * 🧠  I'm learning React js and Web3 techbologies
 * 🤝  I'm open to collaborating on Open Source Projects
+* Currently I am pursuing my masters in Computer Science at Cal State Fullerton with expected graduation date May 2025
 
 <a href="https://www.github.com/piyush1997jagtap" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/piyush1997jagtap?logo=github&style=for-the-badge&color=facc15&labelColor=134e4a" /></a>
